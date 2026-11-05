@@ -1,0 +1,6 @@
+{
+  "name": "Counterline POS",
+  "description": "Offline-ready retail POS billing software with SQLite inventory management and 80mm thermal receipt printing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
